@@ -1,0 +1,16 @@
+C:\APPcadastro\AppCadastro\bin\Debug\net5.0\AppCadastro.exe
+C:\APPcadastro\AppCadastro\bin\Debug\net5.0\AppCadastro.deps.json
+C:\APPcadastro\AppCadastro\bin\Debug\net5.0\AppCadastro.runtimeconfig.json
+C:\APPcadastro\AppCadastro\bin\Debug\net5.0\AppCadastro.runtimeconfig.dev.json
+C:\APPcadastro\AppCadastro\bin\Debug\net5.0\AppCadastro.dll
+C:\APPcadastro\AppCadastro\bin\Debug\net5.0\ref\AppCadastro.dll
+C:\APPcadastro\AppCadastro\bin\Debug\net5.0\AppCadastro.pdb
+C:\APPcadastro\AppCadastro\obj\Debug\net5.0\AppCadastro.csproj.AssemblyReference.cache
+C:\APPcadastro\AppCadastro\obj\Debug\net5.0\AppCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\APPcadastro\AppCadastro\obj\Debug\net5.0\AppCadastro.AssemblyInfoInputs.cache
+C:\APPcadastro\AppCadastro\obj\Debug\net5.0\AppCadastro.AssemblyInfo.cs
+C:\APPcadastro\AppCadastro\obj\Debug\net5.0\AppCadastro.csproj.CoreCompileInputs.cache
+C:\APPcadastro\AppCadastro\obj\Debug\net5.0\AppCadastro.dll
+C:\APPcadastro\AppCadastro\obj\Debug\net5.0\ref\AppCadastro.dll
+C:\APPcadastro\AppCadastro\obj\Debug\net5.0\AppCadastro.pdb
+C:\APPcadastro\AppCadastro\obj\Debug\net5.0\AppCadastro.genruntimeconfig.cache
